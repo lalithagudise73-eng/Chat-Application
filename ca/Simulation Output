@@ -1,0 +1,9 @@
+Time=0  | Send=0 | Read=0 | Input=  | Output=  | Ready=0 | Count=0
+Time=20 | Send=1 | Read=0 | Input=H | Output=  | Ready=1 | Count=0
+Time=30 | Send=0 | Read=1 | Input=H | Output=H | Ready=0 | Count=1
+Time=50 | Send=1 | Read=0 | Input=I | Output=H | Ready=1 | Count=1
+Time=60 | Send=0 | Read=1 | Input=I | Output=I | Ready=0 | Count=2
+Time=80 | Send=1 | Read=0 | Input=O | Output=I | Ready=1 | Count=2
+Time=90 | Send=0 | Read=1 | Input=O | Output=O | Ready=0 | Count=3
+Time=110 | Send=1 | Read=0 | Input=K | Output=O | Ready=1 | Count=3
+Time=120 | Send=0 | Read=1 | Input=K | Output=K | Ready=0 | Count=4
